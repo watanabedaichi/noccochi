@@ -1,3 +1,7 @@
 これはやばい肉だ！
 kamone
+<<<<<<< HEAD
 souzyanaika
+=======
+zubarisoudesyou
+>>>>>>> commit
